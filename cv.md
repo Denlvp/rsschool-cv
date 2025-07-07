@@ -32,3 +32,4 @@ Russian.
 English. (Maybe A1. I am in the process of studying.)
 German. (A2)
 # Photo
+![photo](/rsschool-cv/photo_1.jpg)
