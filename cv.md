@@ -1,16 +1,16 @@
 # Denisevich Lidiya
 # Contact Info
-1. Adress: Republic of Belarus,Brest Region,the city of Brest
-2. Phone number: + 375336461366
-3. E-mail: [*denisevichlv1995@gmail.com*](denisevichlv1995@gmail.com)
-4. Discord: Lidiya(@denlvp)
-5. GitHub: Denlvp
+1. ***Adress:*** *Republic of Belarus,Brest Region,the city of Brest*
+2. ***Phone number:*** *+ 375336461366*
+3. ***E-mail:*** [*denisevichlv1995@gmail.com*](denisevichlv1995@gmail.com)
+4. ***Discord:*** *Lidiya(@denlvp)*
+5. ***GitHub:*** *Denlvp*
 # Brief information about myself
-At the moment, I am working as an anesthesiologist-resuscitator, but I want to get a new knowledge and skill. I want to change something in my cheerful, but sometimes difficult life. Frontend development seems very interesting to me, and this idea consumed my mind. 
+*At the moment, I am working as an anesthesiologist-resuscitator, but I want to get a new knowledge and skill. I want to change something in my cheerful, but sometimes difficult life. Frontend development seems very interesting to me, and this idea consumed my mind.* 
 
-My strengths are punctuality, hard work, a borderline sense of humor, a strong spirit in a weak body, generosity, and the ability to negotiate without resorting to physical harm.
+*My strengths are punctuality, hard work, a borderline sense of humor, a strong spirit in a weak body, generosity, and the ability to negotiate without resorting to physical harm.*
 # Skills
-I don't have any skills in IT. I am a complete beginner.
+*I don't have any skills in IT. I am a complete beginner.*
 # Code Example
 ```
 def count_bits(n):
@@ -26,12 +26,12 @@ def count_bits(n):
     return summary; 
 ```
 # Work experience
-I don't have any experience in frontend development.
+*I don't have any experience in frontend development.*
 # Edicucation
-Grodno State Medical University. I don't have any IT education or courses.
+*Grodno State Medical University. I don't have any IT education or courses.*
 # Languages
-* Russian.
-* English. (Maybe A1. I am in the process of studying.)
-* German. (A2)
+* ***Russian.***
+* ***English.*** *(Maybe A1. I am in the process of studying.)*
+* ***German.*** *(A2)*
 # Photo
 ![photo](/rsschool-cv/photo_1.jpg)
