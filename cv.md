@@ -9,7 +9,7 @@ GitHub: Denlvp
 At the moment, I am working as an anesthesiologist-resuscitator, but I want to get a new knowledge and skill. I want to change something in my cheerful, but sometimes difficult life. Frontend development seems very interesting to me, and this idea consumed my mind. My strengths are punctuality, hard work, a borderline sense of humor, a strong spirit in a weak body, generosity, and the ability to negotiate without resorting to physical harm.
 # Skills
 I don't have any skills in IT. I am a complete beginner.
-Code Example
+# Code Example
 ```
 def count_bits(n):
     b = '';
