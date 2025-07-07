@@ -2,7 +2,7 @@
 # Contact Info
 Adress: Republic of Belarus,Brest Region,the city of Brest
 Phone number: + 375336461366
-E-mail: denisevichlv1995@gmail.com
+E-mail: [*denisevichlv1995@gmail.com*](denisevichlv1995@gmail.com)
 Discord: Lidiya(@denlvp)
 GitHub: Denlvp
 # Brief information about myself
