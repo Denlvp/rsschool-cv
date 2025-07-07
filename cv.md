@@ -10,6 +10,7 @@ At the moment, I am working as an anesthesiologist-resuscitator, but I want to g
 # Skills
 I don't have any skills in IT. I am a complete beginner.
 Code Example
+```
 def count_bits(n):
     b = '';
     summary = 0;
@@ -21,6 +22,7 @@ def count_bits(n):
         if b[i] == '1':
             summary += 1;
     return summary; 
+```
 # Work experience
 I don't have any experience in frontend development.
 # Edicucation
